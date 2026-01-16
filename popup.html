@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Gemini History Sidebar</title>
+  <style>
+    /* 强制设置弹窗尺寸，防止 Chrome 压缩内容区域 */
+    html,
+    body {
+      width: 400px !important;
+      height: 600px !important;
+      margin: 0 !important;
+      padding: 0 !important;
+      overflow: hidden !important;
+      background-color: #F9FAFB;
+    }
+
+    #root {
+      width: 400px !important;
+      height: 600px !important;
+      display: block !important;
+    }
+  </style>
+</head>
+
+<body>
+  <div id="root"></div>
+  <script type="module" src="/src/main.tsx"></script>
+</body>
+
+</html>
