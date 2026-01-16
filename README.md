@@ -1,6 +1,6 @@
 # Gemini History Sidebar (Gemini 历史记录侧边栏)
 
-一个仿照deep seek历史边栏做的，为 Google Gemini 打造的增强型扩展，提供丝滑的历史记录管理与页面内导航体验。
+一个仿照deep seek历史边栏做的，为 Google Gemini 打造的增强型扩展，提供丝滑页面内导航体验。
 下载地址：https://github.com/kingway327/Gemini-History-Sidebar/releases/tag/v1.0.0
 
 ## ✨ 核心功能
